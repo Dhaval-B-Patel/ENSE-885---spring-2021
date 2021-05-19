@@ -1,4 +1,4 @@
-# ENSE 885 - spring 2021 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)       ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+# ENSE 885AU - spring 2021 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)       ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 
 

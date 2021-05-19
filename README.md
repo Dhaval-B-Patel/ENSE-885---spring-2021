@@ -2,7 +2,7 @@
 
  This work is a part of class ENSE 885 at university of Regina
 
-<B>Documentation</B>   
+<B><p style="font-size:30px">Documentation</B></p>   
 <B><h2>Activity - Requirement Analysis</h2>
 <ul>
   <li>Community characteristics orientation</li>

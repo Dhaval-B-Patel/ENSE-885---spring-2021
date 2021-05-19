@@ -7,7 +7,7 @@
 * Developer/Designer: [Dhaval Patel](https://www.linkedin.com/in/dhaval-bhailalbhai-patel-421566202/)
 * reviewer : [Dr. Timothy Maciag](https://www.maciag.ca/)
 
-<B><h2>Documentation</h2>
+# Documentation:
 <B><h2>Activity - Requirement Analysis</h2>
 <ul>
   <li>Community characteristics orientation</li>

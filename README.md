@@ -5,7 +5,7 @@
 # Contribution in project: [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 * Developer/Designer: [Dhaval Patel](https://www.linkedin.com/in/dhaval-bhailalbhai-patel-421566202/)
-* Instructor: [Dr. Timothy Maciag](https://www.maciag.ca/)
+* reviewer : [Dr. Timothy Maciag](https://www.maciag.ca/)
 
 <B><h2>Documentation</h2>
 <B><h2>Activity - Requirement Analysis</h2>

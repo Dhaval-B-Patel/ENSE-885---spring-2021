@@ -18,6 +18,12 @@
   <li>Project Requirements</li>
   <li>Activity-Based Schedule</li> 
 </ul>
+  
+<B><h2>Activity -  Software design & architecture</h2>
+<ul>
+  <li>Use Case Diagrams</li>
+  <li>Low Fidelity Diagram</li>
+</ul>
 
  <B><h2>Presentation</h2>
 <ul>

@@ -24,8 +24,18 @@
   <li>Use Case Diagrams</li>
   <li>Low Fidelity Diagram</li>
 </ul>
+  
+<B><h2>MVP 1 </h2>
+<ul>
+  <li>Model_Predict.ipynb [Code file for training model]</li>
+  <li>Dataset</li>
+  <ul><li>Feature.csv [training dataset]</li>
+      <li>targetcsv [status of water pump mapped by ID]</li>
+      <li>Test.csv [Test dataset to test the model]</li></ul>
+</ul>
 
  <B><h2>Presentation</h2>
 <ul>
   <li>Requirement Analysis presentation</li>
+  <li>MVP 1 presentation</li>
 </ul>

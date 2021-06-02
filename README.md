@@ -29,9 +29,10 @@
 <ul>
   <li>Model_Predict.ipynb [Code file for training model]</li>
   <li>Dataset</li>
-  <ul><li>Feature.csv [training dataset]</li>
-      <li>targetcsv [status of water pump mapped by ID]</li>
-      <li>Test.csv [Test dataset to test the model]</li></ul>
+  <ul><li>Feature.csv [ training dataset ]</li>
+      <li>targetcsv [ status of water pump mapped by ID ]</li>
+      <li>Test.csv [ Test dataset to test the model ]</li></ul>
+  <li>Flow Diagram MVP1 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
 </ul>
 
  <B><h2>Presentation</h2>

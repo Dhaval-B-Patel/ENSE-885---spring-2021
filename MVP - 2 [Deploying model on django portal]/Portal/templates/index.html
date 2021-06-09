@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Home page</title>
+
+  <script src="https://kit.fontawesome.com/47101d2035.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <style>
+    .center {
+      position: absolute;
+      text-align: center;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: rgb(230, 239, 245);
+    }
+  </style>
+</head>
+
+
+<body class="center">
+
+  <h1 style="color:rgb(44, 44, 90); font-weight: 700;">
+    <i class="fas fa-pump-soap"></i> WATER PUMP STATUS PREDICTOR <i class="fas fa-pump-soap"></i>
+  </h1>
+
+  <p style="color:rgb(51, 51, 83); font-weight: 700;">
+    <i class="fas fa-tint"></i>  what is the status of the water pump with you input characteristics ?  <i class="fas fa-tint"></i>
+  </p>
+
+  <form action="result">
+    {% csrf_token %}
+
+    <div class="form-group">
+      <input class="form-control" placeholder="ID of the pump" required type="text" name="id">
+    </div>
+
+
+    <div class="form-group">
+      <input class="form-control" placeholder="longitude of the pump" required type="text" name="longitude">
+    </div>
+
+
+    <div class="form-group">
+      <input class="form-control" placeholder="latitude of the pump" required type="text" name="latitude">
+    </div>
+
+
+    <div class="form-group">
+      <input class="form-control" placeholder="gps height of the pump" required type="text" name="gps_height">
+    </div>
+
+
+    <div class="form-group">
+      <input class="form-control" placeholder="quality group" type="text" required name="quality_group">
+    </div>
+
+
+    <div class="form-group">
+      <input class="form-control" placeholder="district code" required type="text" name="district_code">
+    </div>
+
+    <div class="form-group">
+      <input class="form-control" placeholder="region code" required type="text" name="region_code">
+    </div>
+
+
+    <div class="form-group">
+      <input class="form-control" placeholder="extraction type" required type="text" name="extraction_type">
+    </div>
+
+
+    <div class="form-group">
+      <input class="form-control" placeholder="waterpoint type" required type="text" name="waterpoint_type">
+    </div>
+
+
+    <input class="btn btn-primary btn-lg btn-block" type="submit" value='Predict'>
+
+  </form>
+</body>
+
+</html>

@@ -43,7 +43,7 @@
   <li>Shallow model</li>
   <li>Dataset</li>
   <ul><li>input.csv [ training shallow network dataset ]</li>
-      <li>output.csv [ Test dataset for shallow network ]</li>
+      <li>output.csv [ Test dataset for shallow network ]</li></ul>
   <li>Flow Diagram MVP2 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
 </ul>
 

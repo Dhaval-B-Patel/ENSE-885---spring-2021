@@ -37,6 +37,16 @@
   <li>Flow Diagram MVP1 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
 </ul>
 
+<B><h2>MVP 2 </h2>
+<ul>
+  <li>Portal code for deloying model [Code file for training model]</li>
+  <li>Shallow model</li>
+  <li>Dataset</li>
+  <ul><li>input.csv [ training shallow network dataset ]</li>
+      <li>output.csv [ Test dataset for shallow network ]</li>
+  <li>Flow Diagram MVP2 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
+</ul>
+
  <B><h2>Presentation</h2>
 <ul>
   <li>Requirement Analysis presentation</li>

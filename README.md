@@ -52,4 +52,5 @@
   <li>Requirement Analysis presentation</li>
   <li>MVP 1 presentation</li>
   <li>MVP 2 presentation</li>
+  <li>MVP 3 presentation</li>
 </ul>

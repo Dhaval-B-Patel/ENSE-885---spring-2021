@@ -40,10 +40,10 @@
  # MVP 2: 
 * Portal code for deloying model [Code file for training model]
 * Shallow model
-<li>Dataset</li>
+* Dataset
   <ul><li>input.csv [ training shallow network dataset ]</li>
       <li>output.csv [ Test dataset for shallow network ]</li></ul>
- * Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
+* Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
 
   # MVP 3: 
 * [ Video Commercial ](https://youtu.be/AA33Dtd90rw)

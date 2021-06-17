@@ -1,5 +1,12 @@
 # Project Posidon [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)       ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+Prject posidon leverage the data science and machine learning techiques to develop a novel solution for water crisis problem by predicting the status of water infastructure of different communities accross Tanzania. The developed model is deployed on a djang based webapp to increase it's global outreach.
+The project support following [UN sustainable development goals](https://sdgs.un.org/goals)
+* Goal 6 - Clean water and sanitation 
+* Goal 3 – Good Health and Well-Being  
+* Goal 17 – Partnerships for Goals
+* Goal 11 – Sustainable Cities and communities
 
+We welcome contributions in this project by forking this repository.
 
 
 # Contribution in project: 

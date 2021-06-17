@@ -1,31 +1,28 @@
-# Project Posidon [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)       ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+## Project Posidon [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)       ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 
 
-# Contribution in project: 
+## Contribution in project: 
 * Developer/Designer: [Dhaval Patel](https://www.linkedin.com/in/dhaval-bhailalbhai-patel-421566202/)
 * reviewer : [Dr. Timothy Maciag](https://www.maciag.ca/)
 * Datasource owned by: [The United Republic of Tanzania - Ministry of Water](https://www.maji.go.tz/)
 * Datasource hosted by: [ Data Driven organization ](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
 
-# Documentation:
-<B><h2>Activity - Requirement Analysis</h2>
-<ul>
-  <li>Community characteristics orientation</li>
-  <li>Technology configuration inventory </li>
-  <li>Drafting an emerging picture</li>
-  <li>Business Case</li>
-  <li>Stakeholder Analysis</li>
-  <li>Project Scope Statement</li>
-  <li>Project Requirements</li>
-  <li>Activity-Based Schedule</li> 
-</ul>
+## Documentation
+
+# Activity - Requirement Analysis
+* Community characteristics orientation
+* Technology configuration inventory 
+* Drafting an emerging picture
+* Business Case 
+* Stakeholder Analysis
+* Project Scope Statement
+* Project Requirements
+* Activity-Based Schedule
   
-<B><h2>Activity -  Software design & architecture</h2>
-<ul>
-  <li>Use Case Diagrams</li>
-  <li>Low Fidelity Diagram</li>
-</ul>
+# Activity -  Software design & architecture
+* Use Case Diagrams
+* Low Fidelity Diagram
 
 # MVP 1 : 
 * Model_Predict.ipynb [Code file for training model]
@@ -48,11 +45,9 @@
 * [ Video Commercial ](https://youtu.be/AA33Dtd90rw)
 * Reflexion Document 
 * Final Flow diagram
-  
- <B><h2>Presentation</h2>
-<ul>
-  <li>Requirement Analysis presentation</li>
-  <li>MVP 1 presentation</li>
-  <li>MVP 2 presentation</li>
-  <li>MVP 3 presentation</li>
-</ul>
+
+# Presentation
+* Requirement Analysis presentation
+* MVP 1 presentation
+* MVP 2 presentation
+* MVP 3 presentation

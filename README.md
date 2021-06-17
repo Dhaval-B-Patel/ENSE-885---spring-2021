@@ -47,13 +47,10 @@
   <li>Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
 </ul>
 
-<B><h2>MVP 3 </h2>
-<ul>
-  * [ Video Commercial ](https://youtu.be/AA33Dtd90rw) </li>
-  <li> Reflexion Document </li>
-  <li>Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
-</ul>
-
+  # MVP 3: 
+* [ Video Commercial ](https://youtu.be/AA33Dtd90rw)
+* Reflexion Document  
+  
  <B><h2>Presentation</h2>
 <ul>
   <li>Requirement Analysis presentation</li>

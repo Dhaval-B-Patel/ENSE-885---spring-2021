@@ -26,18 +26,17 @@
   <li>Use Case Diagrams</li>
   <li>Low Fidelity Diagram</li>
 </ul>
-  
-<B><h2>MVP 1 </h2>
-<ul>
-  <li>Model_Predict.ipynb [Code file for training model]</li>
-  <li>Dataset</li>
+
+# MVP 1 : 
+* Model_Predict.ipynb [Code file for training model]
+* Flow Diagram MVP1 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
+* Dataset
   <ul><li>Feature.csv [ training dataset ]</li>
       <li>targetcsv [ status of water pump mapped by ID ]</li>
       <li>Test.csv [ Test dataset to test the model ]</li></ul>
-  <li>Flow Diagram MVP1 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
-</ul>
+* Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
 
- # MVP 2: 
+# MVP 2: 
 * Portal code for deloying model [Code file for training model]
 * Shallow model
 * Dataset
@@ -45,7 +44,7 @@
       <li>output.csv [ Test dataset for shallow network ]</li></ul>
 * Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
 
-  # MVP 3: 
+# MVP 3: 
 * [ Video Commercial ](https://youtu.be/AA33Dtd90rw)
 * Reflexion Document 
 * Final Flow diagram

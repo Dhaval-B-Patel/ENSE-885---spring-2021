@@ -49,7 +49,8 @@
 
   # MVP 3: 
 * [ Video Commercial ](https://youtu.be/AA33Dtd90rw)
-* Reflexion Document  
+* Reflexion Document 
+* Final Flow diagram
   
  <B><h2>Presentation</h2>
 <ul>

@@ -1,5 +1,9 @@
-# Project Posidon [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)       ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-Prject posidon leverage the data science and machine learning techiques to develop a novel solution for water crisis problem by predicting the status of water infastructure of different communities accross Tanzania. The developed model is deployed on a django based webapp to increase it's global outreach.
+# Project Posidon [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://opensource.org/licenses)       [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)         [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40211482/122629608-82444880-d07b-11eb-9220-e4732d47ad5a.png">
+</p>
+
+Project posidon leverage the data science and machine learning techiques to develop a novel solution for water crisis problem by predicting the status of water infastructure of different communities accross Tanzania. The developed model is deployed on a django based webapp to increase it's global outreach.
 The project support's following [UN sustainable development goals](https://sdgs.un.org/goals)
 * Goal 6 - Clean water and sanitation 
 * Goal 3 – Good Health and Well-Being  
@@ -7,7 +11,7 @@ The project support's following [UN sustainable development goals](https://sdgs.
 * Goal 11 – Sustainable Cities and communities
 
 We welcome contributions in this project by forking this repository.
-
+* Link for development dependencies for the project [Environment](https://github.com/Dhaval-B-Patel/ENSE-885---spring-2021/blob/cfc89db370939b5888bb6ba092de4184ef8c429e/Software%20Development%20Dependencies%20for%20the%20project/Managing%20Project%20Environment.txt)
 
 # Contribution in project: 
 * Developer/Designer: [Dhaval Patel](https://www.linkedin.com/in/dhaval-bhailalbhai-patel-421566202/)

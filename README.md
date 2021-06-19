@@ -1,5 +1,12 @@
 # Project Posidon [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)       ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+Prject posidon leverage the data science and machine learning techiques to develop a novel solution for water crisis problem by predicting the status of water infastructure of different communities accross Tanzania. The developed model is deployed on a django based webapp to increase it's global outreach.
+The project support's following [UN sustainable development goals](https://sdgs.un.org/goals)
+* Goal 6 - Clean water and sanitation 
+* Goal 3 – Good Health and Well-Being  
+* Goal 17 – Partnerships for Goals
+* Goal 11 – Sustainable Cities and communities
 
+We welcome contributions in this project by forking this repository.
 
 
 # Contribution in project: 
@@ -8,54 +15,46 @@
 * Datasource owned by: [The United Republic of Tanzania - Ministry of Water](https://www.maji.go.tz/)
 * Datasource hosted by: [ Data Driven organization ](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
 
-# Documentation:
-<B><h2>Activity - Requirement Analysis</h2>
-<ul>
-  <li>Community characteristics orientation</li>
-  <li>Technology configuration inventory </li>
-  <li>Drafting an emerging picture</li>
-  <li>Business Case</li>
-  <li>Stakeholder Analysis</li>
-  <li>Project Scope Statement</li>
-  <li>Project Requirements</li>
-  <li>Activity-Based Schedule</li> 
-</ul>
+# Documentation
+
+## Activity - Requirement Analysis
+* Community characteristics orientation
+* Technology configuration inventory 
+* Drafting an emerging picture
+* Business Case 
+* Stakeholder Analysis
+* Project Scope Statement
+* Project Requirements
+* Activity-Based Schedule
   
-<B><h2>Activity -  Software design & architecture</h2>
-<ul>
-  <li>Use Case Diagrams</li>
-  <li>Low Fidelity Diagram</li>
-</ul>
-  
-<B><h2>MVP 1 </h2>
-<ul>
-  <li>Model_Predict.ipynb [Code file for training model]</li>
-  <li>Dataset</li>
+## Activity -  Software design & architecture
+* Use Case Diagrams
+* Low Fidelity Diagram
+
+## MVP 1 : 
+* Model_Predict.ipynb [Code file for training model]
+* Flow Diagram MVP1 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
+* Dataset
   <ul><li>Feature.csv [ training dataset ]</li>
       <li>targetcsv [ status of water pump mapped by ID ]</li>
       <li>Test.csv [ Test dataset to test the model ]</li></ul>
-  <li>Flow Diagram MVP1 Demo.png [ Image describing the flow of Model_predict.ipynb file ]
-</ul>
+* Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
 
-<B><h2>MVP 2 </h2>
-<ul>
-  <li>Portal code for deloying model [Code file for training model]</li>
-  <li>Shallow model</li>
-  <li>Dataset</li>
+## MVP 2: 
+* Portal code for deloying model [Code file for training model]
+* Shallow model
+* Dataset
   <ul><li>input.csv [ training shallow network dataset ]</li>
       <li>output.csv [ Test dataset for shallow network ]</li></ul>
-  <li>Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
-</ul>
+* Flow Diagram MVP2 Demo.png [ Image describing the flow of MVP 2 ]
 
-  # MVP 3: 
+## MVP 3: 
 * [ Video Commercial ](https://youtu.be/AA33Dtd90rw)
 * Reflexion Document 
 * Final Flow diagram
-  
- <B><h2>Presentation</h2>
-<ul>
-  <li>Requirement Analysis presentation</li>
-  <li>MVP 1 presentation</li>
-  <li>MVP 2 presentation</li>
-  <li>MVP 3 presentation</li>
-</ul>
+
+## Presentation
+* Requirement Analysis presentation
+* MVP 1 presentation
+* MVP 2 presentation
+* MVP 3 presentation

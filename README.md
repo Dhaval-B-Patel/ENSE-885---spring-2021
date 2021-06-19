@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/40211482/122629608-82444880-d07b-11eb-9220-e4732d47ad5a.png">
 </p>
 
-Prject posidon leverage the data science and machine learning techiques to develop a novel solution for water crisis problem by predicting the status of water infastructure of different communities accross Tanzania. The developed model is deployed on a django based webapp to increase it's global outreach.
+Project posidon leverage the data science and machine learning techiques to develop a novel solution for water crisis problem by predicting the status of water infastructure of different communities accross Tanzania. The developed model is deployed on a django based webapp to increase it's global outreach.
 The project support's following [UN sustainable development goals](https://sdgs.un.org/goals)
 * Goal 6 - Clean water and sanitation 
 * Goal 3 – Good Health and Well-Being  

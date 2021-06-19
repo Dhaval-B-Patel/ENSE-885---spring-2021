@@ -7,7 +7,7 @@ The project support's following [UN sustainable development goals](https://sdgs.
 * Goal 11 – Sustainable Cities and communities
 
 We welcome contributions in this project by forking this repository.
-
+Link to development dependencies for the project [Click](https://github.com/Dhaval-B-Patel/ENSE-885---spring-2021/blob/cfc89db370939b5888bb6ba092de4184ef8c429e/Software%20Development%20Dependencies%20for%20the%20project/Managing%20Project%20Environment.txt)] 
 
 # Contribution in project: 
 * Developer/Designer: [Dhaval Patel](https://www.linkedin.com/in/dhaval-bhailalbhai-patel-421566202/)

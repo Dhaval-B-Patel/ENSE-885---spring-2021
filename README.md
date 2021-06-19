@@ -34,6 +34,7 @@ We welcome contributions in this project by forking this repository.
 ## Activity -  Software design & architecture
 * Use Case Diagrams
 * Low Fidelity Diagram
+* Flow Diagram
 
 ## MVP 1 : 
 * Model_Predict.ipynb [Code file for training model]

@@ -1,0 +1,4 @@
+Export environmet 
+conda env export > environment.yml
+
+Import project posidon anaconda environment by using anaconda interface by clicking import option and selecting environment 'environment.yml'

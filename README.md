@@ -21,6 +21,8 @@ We welcome contributions in this project by forking this repository.
 
 # Documentation
 
+## Paper and project report
+
 ## Activity - Requirement Analysis
 * Community characteristics orientation
 * Technology configuration inventory 
